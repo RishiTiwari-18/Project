@@ -2,7 +2,10 @@
     font-family: font;
     src: url(/Kajiro\ Bold.woff2);
 }
-
+@font-face {
+    font-family: gilroy;
+    src: url(/gilroy-regular.woff2);
+}
 *{
     margin: 0;
     padding: 0;
